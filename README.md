@@ -39,3 +39,4 @@ Step 6 : Change a ruby version in gem filefrom 2.7.0 to 2.6.6 save the changes a
 Step 7 : Next, Run the command in console heroku run rake db:migrate and run suceesfully.
 Step 8: Run another command in console heroku run rake db:seed to seed data in database created recently.
 
+Step 9: Next, Open app and signUp with userid pwd and this is a link to app https://passassign.herokuapp.com/
